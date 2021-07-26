@@ -1,0 +1,14 @@
+{
+  "testResource": [
+    {
+      "id": 1,
+      "title": "First Article",
+      "content": "Another exmaple!"
+    },
+    {
+      "title": "Second Article",
+      "content": "Another exmaple!",
+      "id": 2
+    }
+  ]
+}
